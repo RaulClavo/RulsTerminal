@@ -1,2 +1,4 @@
 # RulsTerminal
-Una pequeña terminal con ejecución de comandos dentro del sistema además de comandos personalizados (help para verlos) , descargar rulsterminal.sh y rulsterminal.py, ejecutar el script para iniciar la terminal.
+Una pequeña terminal pensada para reemplazar a tu aburrida terminal estándar, teniendo las mismas funcionalidades y algunas más que pueden serte de ayuda. <br />
+## Intrucciones
+
