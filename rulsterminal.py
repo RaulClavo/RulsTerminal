@@ -6,7 +6,7 @@ prefix, current_player = "user@ubuntu:~$", 'X'
 tictactoe, winner = False, False
 class Terminal:
     def __init__(self):
-        pygame.display.set_caption("Terminal")
+        pygame.display.set_caption("RulsTerminal")
         self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
         self.font = pygame.font.SysFont("lucidaconsole", 15)
         self.text, self.text_history_list, self.input_text = [], [[], []], ""
